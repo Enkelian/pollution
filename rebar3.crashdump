@@ -1,0 +1,21 @@
+Error: function_clause
+[{filename,join,[[]],[{file,"filename.erl"},{line,432}]},
+ {rebar_dir,'-src_dirs/3-lc$^0/1-0-',1,
+            [{file,"/tmp/cirrus-ci-build/src/rebar_dir.erl"},{line,289}]},
+ {rebar_dir,'-src_dirs/3-lc$^0/1-0-',1,
+            [{file,"/tmp/cirrus-ci-build/src/rebar_dir.erl"},{line,290}]},
+ {rebar_dir,src_dirs,3,
+            [{file,"/tmp/cirrus-ci-build/src/rebar_dir.erl"},{line,286}]},
+ {rebar_prv_compile,build_extra_dirs,2,
+                    [{file,"/tmp/cirrus-ci-build/src/rebar_prv_compile.erl"},
+                     {line,129}]},
+ {rebar_prv_compile,handle_project_apps,2,
+                    [{file,"/tmp/cirrus-ci-build/src/rebar_prv_compile.erl"},
+                     {line,73}]},
+ {rebar_prv_compile,do,1,
+                    [{file,"/tmp/cirrus-ci-build/src/rebar_prv_compile.erl"},
+                     {line,50}]},
+ {rebar_prv_eunit,compile,1,
+                  [{file,"/tmp/cirrus-ci-build/src/rebar_prv_eunit.erl"},
+                   {line,340}]}]
+

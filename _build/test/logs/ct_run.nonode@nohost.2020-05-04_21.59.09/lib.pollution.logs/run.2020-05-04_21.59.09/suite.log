@@ -1,0 +1,17 @@
+=== Suite started at 2020-05-04 21:59:09
+=== Starting test, 0 test cases
+=cases         0
+=user          anian
+=host          nohost
+=hosts         nohost 
+=emulator_vsn  10.6
+=emulator      beam
+=otp_release   22
+=started       2020-05-04 21:59:09
+=== TEST COMPLETE, 0 ok, 0 failed of 0 test cases
+
+=finished      2020-05-04 21:59:09
+=failed        0
+=successful    0
+=user_skipped  0
+=auto_skipped  0

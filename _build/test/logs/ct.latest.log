@@ -1,0 +1,14 @@
+
+Common Test starting (cwd is e:/Enkeli/studia/pollution)
+
+
+
+CWD set to: "e:/Enkeli/studia/pollution/_build/test/logs/ct_run.nonode@nohost.2020-05-04_22.22.08"
+
+TEST INFO: 1 test(s), 0 case(s) in 0 suite(s)
+
+Testing lib.pollution: Starting test, 0 test cases
+Testing lib.pollution: TEST COMPLETE, 0 ok, 0 failed of 0 test cases
+
+Updating e:/Enkeli/studia/pollution/_build/test/logs/index.html ... done
+Updating e:/Enkeli/studia/pollution/_build/test/logs/all_runs.html ... done

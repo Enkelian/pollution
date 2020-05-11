@@ -1,0 +1,11 @@
+{application,pollution,
+             [{description,"Pollution monitoring application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{pollution_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[pollution,pollution_app,pollution_gen_server,
+                        pollution_supervisor,pow,pow_supervisor]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.
